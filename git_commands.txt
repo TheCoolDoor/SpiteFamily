@@ -1,7 +1,7 @@
-git add
-git status
-git commit --m 
-git branch
+git add - Ez a parancs hozzáad egy fájlt a munkafából a Staging területhez/aktuális branchez.
+git status - Ez a parancs felsorolja az összes véglegesítendő fájlt.
+git commit -m - This command records or snapshots the changes permanently in the version history of the repository.
+git branch - This command lists the branches available in the repository.
 git log - A git log parancs a Git alapvető eszköze a repository előzményeinek feltárására.
 git remote add - A git remote add parancs új kapcsolatrekordot hoz létre egy távoli repositoryhoz.
 git push - A Git push a helyileg végrehajtott változtatásokat a távoli ágra tolja. Ha az ágat már távolról nyomon követték, egyszerűen használja így
