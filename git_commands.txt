@@ -2,7 +2,8 @@ git add
 git status
 git commit --m 
 git branch
-git log
-git remote add
-git push
-git pull
+git log - A git log parancs a Git alapvető eszköze a repository előzményeinek feltárására.
+git remote add - A git remote add parancs új kapcsolatrekordot hoz létre egy távoli repositoryhoz.
+git push - A Git push a helyileg végrehajtott változtatásokat a távoli ágra tolja. Ha az ágat már távolról nyomon követték, egyszerűen használja így
+git pull - A git pull használata az összes módosítást lekéri a távoli tárolóból, és egyesíti a távoli módosításokat az aktuális helyi ágban.
+git clone - Ez a parancs egy távoli projekt legfrissebb verziójának letöltésére és a helyi gép kiválasztott helyére másolására szolgál.
